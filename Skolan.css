@@ -1,0 +1,22 @@
+#tillbaka {
+    color: #2D1E44;
+    font-size: 25px;
+    border-radius: 15px;
+    background-color: #967C69;
+    padding: 5px;
+    outline: auto;
+}
+
+body {
+    background-color: #2D1E44;
+}
+
+
+
+p { 
+    color: #967C69;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
